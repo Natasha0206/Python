@@ -10,3 +10,5 @@ def merge_the_tools(string, k):
             else: 
                 continue
         print(result)
+ 
+
